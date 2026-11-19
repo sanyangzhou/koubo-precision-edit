@@ -5,7 +5,8 @@
 **Talking-Head Word-Level Precision Editor**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/sanyangzhou/koubo-precision-edit/releases)
+[![Release](https://img.shields.io/github/v/release/sanyangzhou/koubo-precision-edit?color=green)](https://github.com/sanyangzhou/koubo-precision-edit/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
 
 一条流水线，把口播素材剪到「一次交付直接进精修」：
@@ -46,9 +47,10 @@ Gitee 镜像（国内访问更快）：https://gitee.com/sanyangzhou/koubo-preci
 # 方式一：clone 到 skills 目录
 git clone https://github.com/sanyangzhou/koubo-precision-edit.git ~/.claude/skills/koubo-precision-edit
 
-# 国内网络下载慢，用 Gitee 镜像或代理直链：
-# git clone https://gitee.com/sanyangzhou/koubo-precision-edit.git ~/.claude/skills/koubo-precision-edit
-# https://gh-proxy.com/https://github.com/sanyangzhou/koubo-precision-edit/archive/refs/heads/main.zip
+# 方式二：下载 zip（国内网络慢就用 Gitee 镜像或 gh-proxy 直链）
+# Gitee 镜像：git clone https://gitee.com/sanyangzhou/koubo-precision-edit.git ~/.claude/skills/koubo-precision-edit
+# 正式版直链：https://github.com/sanyangzhou/koubo-precision-edit/archive/refs/tags/v1.2.0.zip
+# gh-proxy 加速：https://gh-proxy.com/https://github.com/sanyangzhou/koubo-precision-edit/archive/refs/tags/v1.2.0.zip
 ```
 
 ### 依赖说明（缺什么都能干活，能力边界如实告知）
