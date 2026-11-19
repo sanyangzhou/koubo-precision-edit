@@ -11,7 +11,8 @@
 一条流水线，把口播素材剪到「一次交付直接进精修」：
 词级下刀 · 表情体检 · 字幕实测校准 · 成片回转写质检闸门
 
-Gitee 镜像（国内访问更快）：*上传后填链接*
+GitHub：https://github.com/sanyangzhou/koubo-precision-edit
+Gitee 镜像（国内访问更快）：https://gitee.com/sanyangzhou/koubo-precision-edit
 
 </div>
 
@@ -43,10 +44,11 @@ Gitee 镜像（国内访问更快）：*上传后填链接*
 
 ```bash
 # 方式一：clone 到 skills 目录
-git clone https://github.com/<YOUR_USERNAME>/koubo-precision-edit.git ~/.claude/skills/koubo-precision-edit
+git clone https://github.com/sanyangzhou/koubo-precision-edit.git ~/.claude/skills/koubo-precision-edit
 
-# 国内网络下载慢，用代理直链：
-# https://gh-proxy.com/https://github.com/<YOUR_USERNAME>/koubo-precision-edit/archive/refs/heads/main.zip
+# 国内网络下载慢，用 Gitee 镜像或代理直链：
+# git clone https://gitee.com/sanyangzhou/koubo-precision-edit.git ~/.claude/skills/koubo-precision-edit
+# https://gh-proxy.com/https://github.com/sanyangzhou/koubo-precision-edit/archive/refs/heads/main.zip
 ```
 
 ### 依赖说明（缺什么都能干活，能力边界如实告知）
