@@ -1,0 +1,50 @@
+{
+  "project": "",
+  "source": {
+    "dir": "00_素材源",
+    "file_count": 0,
+    "total_duration_sec": 0
+  },
+  "content_type": "口播",
+  "target": {
+    "duration_sec": 60,
+    "aspect": "9:16",
+    "resolution": "1080x1920",
+    "fps": 30
+  },
+  "platform": "抖音",
+  "must_keep": [],
+  "must_cut": [],
+  "subtitle": {
+    "enabled": true,
+    "burn_in": true,
+    "font_size": 52,
+    "max_chars_per_line": 14,
+    "position_bottom_pct": 18
+  },
+  "audio": {
+    "denoise": "medium",
+    "highpass_hz": 80,
+    "compressor": "3:1",
+    "loudness_lufs": -14,
+    "bgm": false,
+    "bgm_duck_db": -24
+  },
+  "rhythm": {
+    "pause_tight_sec": 0.35,
+    "pause_full_sec": 0.8,
+    "pause_paragraph_sec": 0.8,
+    "versions": 3
+  },
+  "look": {
+    "primary_correction": true,
+    "lut": "",
+    "lut_opacity": 0.65
+  },
+  "delivery": {
+    "renders_dir": "02_成片",
+    "deliver_dir": "03_交付",
+    "jianying_draft": false
+  },
+  "assumptions": []
+}
